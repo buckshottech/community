@@ -11,6 +11,30 @@ FinOps Resources: Tools for managing cloud spend, budgeting, and cost optimizati
 Cloud & Infrastructure Examples: Sample configurations for AWS, Kubernetes, Docker, and more.
 We’re committed to building a valuable collection of resources to support the community in delivering efficient, scalable, and secure solutions. Feel free to contribute by adding your own tools, suggesting improvements, or requesting new resources.
 
+### DevOps
+
+This folder contains scripts, examples, and instructions for **DevOps** practices. Here, you'll find resources to help automate processes, manage CI/CD pipelines, and streamline development workflows.
+
+---
+
+### SysOps
+
+This folder provides scripts, examples, and guidance for **SysOps**. It includes resources to assist with system monitoring, server management, and configuration to ensure robust infrastructure operation.
+
+---
+
+### SecOps
+
+This folder includes scripts, examples, and best practices for **SecOps**. You’ll find tools for enhancing security measures, running compliance checks, and implementing proactive security monitoring.
+
+---
+
+### FinOps
+
+This folder offers scripts, examples, and insights for **FinOps**. It provides tools and guidelines to optimize cloud spending, manage budgets, and ensure cost-effective infrastructure scaling.
+
+---
+
 ## 🌐 Learn More About Us
 Visit our website to learn more about Buckshot Technologies and explore our services in cloud infrastructure, security, automation, and optimization.
 
